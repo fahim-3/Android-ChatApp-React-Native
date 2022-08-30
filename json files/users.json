@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5c8aac208bc4b721089b8917"},"email":"fahim@mail.com","password":"fahim1","firstName":"Fahim","lastName":"Ahmed","createdAt":{"$date":"2019-03-14T19:31:44.491Z"},"updatedAt":{"$date":"2019-03-14T19:31:44.491Z"},"__v":0}
+{"_id":{"$oid":"5c8aacc98bc4b721089b8918"},"email":"user1@mail.com","password":"user1","firstName":"User","lastName":"One","createdAt":{"$date":"2019-03-14T19:34:33.577Z"},"updatedAt":{"$date":"2019-03-14T19:34:33.577Z"},"__v":0}
+{"_id":{"$oid":"5c8aace58bc4b721089b8919"},"email":"user2@mail.com","password":"user2","firstName":"User","lastName":"Two","createdAt":{"$date":"2019-03-14T19:35:01.489Z"},"updatedAt":{"$date":"2019-03-14T19:35:01.489Z"},"__v":0}

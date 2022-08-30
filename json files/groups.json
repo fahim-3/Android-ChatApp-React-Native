@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5c8ae69a27da7826cc2b6ab4"},"Groupname":"mike","UserId":"5c8aac208bc4b721089b8917","createdAt":{"$date":"2019-03-14T23:41:14.556Z"},"updatedAt":{"$date":"2019-03-14T23:41:14.556Z"},"__v":0}
+{"_id":{"$oid":"5c8ae6dc27da7826cc2b6ab5"},"Groupname":"Group1","UserId":"5c8aacc98bc4b721089b8918","createdAt":{"$date":"2019-03-14T23:42:20.789Z"},"updatedAt":{"$date":"2019-03-14T23:42:20.789Z"},"__v":0}
